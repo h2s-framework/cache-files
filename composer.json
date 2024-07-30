@@ -1,0 +1,22 @@
+{
+  "name": "siarkowodor/cache-files",
+  "description": "Library for managing cache files",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "0.1.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "H2S",
+      "email": "mateusz@siarko.pl"
+    }
+  ],
+  "require": {
+    "siarkowodor/h2s-path-manager": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Siarko\\CacheFiles\\": "src/"
+    }
+  }
+}

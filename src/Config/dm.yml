@@ -1,0 +1,5 @@
+id: Siarko.CacheFiles.default
+
+types:
+  # Preferences
+  \Siarko\CacheFiles\Api\CacheSetInterface: \Siarko\CacheFiles\CacheSet
