@@ -1,5 +1,5 @@
 {
-  "name": "siarkowodor/cache-files",
+  "name": "h2sf/cache-files",
   "description": "Library for managing cache files",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "siarkowodor/h2s-path-manager": "*"
+    "h2sf/path-manager": "*"
   },
   "autoload": {
     "psr-4": {
