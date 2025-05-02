@@ -3,7 +3,6 @@
   "description": "Library for managing cache files",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "version": "0.1.0",
   "type": "library",
   "authors": [
     {
@@ -12,7 +11,7 @@
     }
   ],
   "require": {
-    "h2sf/path-manager": "*"
+    "h2sf/path-manager": "^0.3"
   },
   "autoload": {
     "psr-4": {
